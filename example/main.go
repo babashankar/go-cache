@@ -1,11 +1,10 @@
-// File: example/main.go
 package main
 
 import (
 	"fmt"
 	"time"
 
-	gocache "git.source.akamai.com/~bsn/mock-bootstrapper.git/github/go-cache"
+	gocache "github.com/babashankar/go-cache"
 	// Replace with your actual import path
 )
 
